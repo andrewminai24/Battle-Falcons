@@ -89,6 +89,7 @@ public class Main {
 
 
         //Buttons for Cards (Left is button 1, right is button 2)
+       //The button forCard
         button1 = new JButton();
         Button(rect12,button1);
 
